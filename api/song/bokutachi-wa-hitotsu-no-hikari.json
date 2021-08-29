@@ -1,0 +1,22 @@
+{
+    "title": {
+        "eng": "We Are A Single Light",
+        "kan": "僕たちはひとつの光",
+        "rom": "Bokutachi wa Hitotso no Hikari"
+    },
+    "featured": true,
+    "mv": "https://www.youtube.com/watch?v=6UBp7KzvRKM",
+    "credits": {
+        "writer": "Aki Hata",
+        "composer": "ZAQ",
+        "arranger": "EFFY",
+        "singer": [
+            "µ's"
+        ]
+    },
+    "lyrics": {
+        "eng": "https://loveliveapi.herokuap.com/storage/songs/bokutachi-wa-hitotsu-no-hikari-eng.txt",
+        "kan": "https://loveliveapi.herokuap.com/storage/songs/bokutachi-wa-hitotsu-no-hikari-kan.txt",
+        "rom": "https://loveliveapi.herokuap.com/storage/songs/bokutachi-wa-hitotsu-no-hikari-rom.txt"
+    }
+}
